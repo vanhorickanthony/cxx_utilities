@@ -1,9 +1,8 @@
 //============================================================================
-// Name        : Utilities.cpp
-// Author      : 
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// @name        : utils.cc
+// @author      : Anthony Van Horick
+// @date        : 2019-07-30
+// @description :
 //============================================================================
 
 #include <iostream>

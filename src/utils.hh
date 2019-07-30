@@ -1,7 +1,7 @@
 //============================================================================
 // @name        : utils.h
 // @author      : Anthony Van Horick
-// @date        : 2017-06-21
+// @date        : 2019-07-30
 // @description :
 //============================================================================
 
@@ -12,6 +12,7 @@
 #include <type_traits>
 #include <cstdint>
 #include <stdio.h>
+
 
 
 /* To define whether a type T is a container, it has to own several properties:
